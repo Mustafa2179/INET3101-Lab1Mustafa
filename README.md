@@ -1,6 +1,6 @@
 # INET3101-Lab1Mustafa
 
-##Simple commandline menu for an Inventory Management System
+## Simple commandline menu for an Inventory Management System
 
 Written by: Mustafa Dayib
 Date: Feb 12th 2024
